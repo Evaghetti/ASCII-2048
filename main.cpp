@@ -13,7 +13,7 @@ int main() {
 	}
 	Exec.desenharTab();
 	if (flag)
-		cout << "Voce Ganhou! Parabens!" << std::endl;
+		cout << "Voce Ganhou! Parabens!" << endl;
 	else 
 		cout << "Fim de Jogo, Voce Perdeu" << endl;
 	std::cin.get();
