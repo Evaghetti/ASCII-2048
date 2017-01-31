@@ -16,5 +16,5 @@ int main() {
 		cout << "Voce Ganhou! Parabens!" << endl;
 	else 
 		cout << "Fim de Jogo, Voce Perdeu" << endl;
-	std::cin.get();
+	cin.get();
 }
